@@ -13,4 +13,3 @@ And features and capabilities that can be seen in the source code.
 - The source code is inside the correct paths and folders.
 - Do not use ```<div></div>```, And the meaningful ```<ul></ul>``` tag is used ( Use meaningful tags ).
 To avoid duplication of div in large projects.
-
